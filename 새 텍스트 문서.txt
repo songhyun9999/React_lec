@@ -1,0 +1,4 @@
+react 명령어
+
+react 앱 생성	-	npx create-react-app 'dir_name'
+react 서버 실행	-	/해당 폴더로 이동 이후/ npm run start
